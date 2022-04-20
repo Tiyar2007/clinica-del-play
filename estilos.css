@@ -1,3 +1,12 @@
 .imagen{
     border-image-width: 10px;
 }
+.fondo{
+    background-image: url("img/PS3.jpg");
+    height: 150px;
+}
+
+.fondo2{
+    background-image: url("img/ps4.jpg");
+    height: 150px;
+}
